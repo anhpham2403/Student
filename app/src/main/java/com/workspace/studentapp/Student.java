@@ -10,6 +10,8 @@ public class Student {
     private int age;
     private String mail;
 
+    // Contructor
+
     public Student() {
     }
 
